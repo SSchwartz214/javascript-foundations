@@ -20,6 +20,8 @@ class Wizard {
       return 'I SHALL NOT CAST!'
     }
   }
+
+  test()
 }
 
 module.exports = Wizard
